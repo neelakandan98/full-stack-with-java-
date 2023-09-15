@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(199, 248, 248);
+    width:180vh;
+}
+.name{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.edu{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    border: 2px solid black;
+    
+}
+.container{
+    background-color:aqua;
+    width: 100%;
+    margin-left: 13vh;
+    padding: 20px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.133),
+                -2px -2px 5px rgba(0,0,0,0.133);
+}
